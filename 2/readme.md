@@ -4,7 +4,7 @@ Matakuliah : Desain dan Pemograman Web<br>
 Kelompok : SI2K<br>
 
 Hasil yang disimpulkan:<br>
-1. Seperti pertemuan 1 membuat repository di <a>github.com</a><br>
+1. Seperti pertemuan 1 membuat repository di github.com<br>
 	 a. Nilai kehadiran file bernama readme.md<br>
    b. Nilai tugas file bernama index.html<br>
 2. Membuat dokumen html.<br>
