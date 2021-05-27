@@ -8,4 +8,4 @@ Hasil yang saya simpulkan pada pertemuan 5 (membuat dokumen HTML untuk formulir)
 2. Tag <form> memiliki 2 method, yang membedakannya cara form dalam mengirimkan nilai (value) untuk selanjutnya diproses (kode, proses, dan hasil yang di terapkan):<br>
     a. GET = Proses parsel nilai (value) langsung menampilkan data yang ada pada form dialamat<br>
     b. POST = Proses parsel nilai (value) tidak menampilkan secara langsung data yang ada pada form dialamat<br>
-  3. Tag <form> juga memiliki attribut <em>oction</em> yang digunakan untuk memanggil file lain untuk memproses nilai pada isian yang dilakukan pengguna formulir pada halaman web.<br>
+  3. Tag <form> juga memiliki attribut <u>oction</u> yang digunakan untuk memanggil file lain untuk memproses nilai pada isian yang dilakukan pengguna formulir pada halaman web.<br>
