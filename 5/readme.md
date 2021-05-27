@@ -14,7 +14,7 @@ Hasil yang saya simpulkan pada pertemuan 5 (membuat dokumen HTML untuk formulir)
     b. < button...>...< /button><br>
     c. < textarea...>...< /textarea><br>
     d. < select...>< option...>...< /option>...< /select><br>
-5. <b>Objek pada form</b>:
+5. <b>Objek pada form</b>:<br>
     a. Input teks (text, password, email, number, textarea)<br>
     b. Input tanggal (date)<br>
     c. Input pilihan (radio, radio group, checkbox, select, option)<br>
