@@ -1,7 +1,7 @@
-NIM : 2022500095
-NAMA : SHATASYA DEVIA BORETI
-MATAKULIAH : DESAIN DAN PEMOGRAMAN WEB
-KELOMPOK : SI2K
+NIM : 2022500095<br>
+NAMA : SHATASYA DEVIA BORETI<br>
+MATAKULIAH : DESAIN DAN PEMOGRAMAN WEB<br>
+KELOMPOK : SI2K<Br>
 <br>
 yang saya pelajari pada pertemuan 7 adalah:<br>
 1. <a>Membuat layout dengan tabel</a>. Membuat kolom dan baris.<br>
